@@ -8,7 +8,7 @@ Using the same test account to repeatedly test the same scenarios.  For instance
 Use GMAIL api to reset precondition as described below.  
 
 ## Side note
-I used Gmail APIs when I automated the "Forgot Password" feature that users often see in mobile apps.  I used Gmail API in my mobile APPIUM framework. 
+I used Gmail APIs when I automated the "Forgot Password" feature that we often see in mobile apps.  I used Gmail APIs in my mobile APPIUM framework. 
 
 
 ### Test case 1) :  Receiving a new email  

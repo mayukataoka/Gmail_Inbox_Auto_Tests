@@ -1,7 +1,8 @@
 # How to test Gmail Inbox. 
  
 ## Challenge 
-Using the same test account to repeatedly test the same scenarios.  For instance, how to you accurately test deleting an email? 
+Using the same test account to repeatedly test the same scenarios.  
+For instance, how do you accurately test deleting an email repeatedly? 
 
 
 ## Solution 

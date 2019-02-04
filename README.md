@@ -6,7 +6,7 @@ For instance, how do you accurately test deleting an email repeatedly?
 
 
 ## Solution 
-Use GMAIL api to reset precondition as described below.  
+Use GMAIL api to reset precondition as described below.  Also, since the focus of the test in Inbox only, all other email actions should be done with the GMAIL APIs.  Appium or Selenium UI test should just verify the Inbox UI only. 
 
 ## Side note
 I used Gmail APIs when I automated the "Forgot Password" feature that we often see in mobile apps.  I used Gmail APIs in my mobile APPIUM framework. 

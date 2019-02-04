@@ -14,7 +14,7 @@ I used Gmail APIs when I automated the "Forgot Password" feature that we often s
 ### Test case 1) :  Receiving a new email  
 
 - Step 1 -  [Reset State to make testing repeatable ] Using the GMAIL api, delete ALL inbox emails. 
-- Step 2 -  Compose an email and send it to me using an GMAIL api.  
+- Step 2 -  Compose an email and send it to the test account using an GMAIL api.  
 https://developers.google.com/gmail/api/guides/sending
 
 - Verification 1 - Verify on the UI that the inbox has one email. Verify the header and the body text.  
@@ -23,7 +23,7 @@ https://developers.google.com/gmail/api/guides/sending
 ### Test case 2) :  Receiving a new email with an attachment. 
 
 - Step 1 -  [Reset State to make testing repeatable ] Using the GMAIL api, delete ALL inbox emails. 
-- Step 2 -  Compose an email and send it to me using an GMAIL api.  
+- Step 2 -  Compose an email and send it to the test account using an GMAIL api.  
 https://developers.google.com/gmail/api/guides/sending
 
 - Verification 1 - Verify  on the UI that the inbox has one email with an attachment.  Verify the attachment. 
@@ -32,7 +32,7 @@ https://developers.google.com/gmail/api/guides/sending
 ### Test case 3) :  Deleting email.
 
 - Step 1 -  [Reset State to make testing repeatable ] Using the GMAIL api, delete ALL inbox emails. 
-- Step 2 -  Compose an email and send it to me using an GMAIL api.  
+- Step 2 -  Compose an email and send it to the test account using an GMAIL api.  
 https://developers.google.com/gmail/api/guides/sending
 - Step 3 - Delete the email from the UI. 
 

@@ -38,5 +38,5 @@ https://developers.google.com/gmail/api/guides/sending
 - Step 3 - Delete the email from the UI. 
 
 - Verification 1 - Verify the inbox has no email using an GMAIL api https://developers.google.com/gmail/api/v1/reference/users/messages/list?hl=ja
-- Verification 3 - Verify on the Inbox UI that the inbox has no email. 
+- Verification 2 - Verify on the Inbox UI that the inbox has no email. 
 

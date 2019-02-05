@@ -11,7 +11,7 @@ Use GMAIL api to reset precondition as described below.  Also, since the focus o
 ## Side note
 I used Gmail APIs when I automated the "Forgot Password" feature that we often see in mobile apps.  I used Gmail APIs in my mobile APPIUM framework. 
 
-## Test Cases
+## Sample Test Cases
 ### Test case 1) :  Receiving a new email  
 
 - Step 1 -  [Reset State to make testing repeatable ] Using the GMAIL api, delete ALL inbox emails. 
